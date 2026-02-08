@@ -96,7 +96,7 @@ The following queries can be used to display and verify the schema
 after creation. 
 
 ## **STEP 3:Business Justification**
----
+
 
 This schema supports:
 
@@ -108,7 +108,7 @@ customer segmentation
 ● Clear identification of inactive customers and unsold products
 
 #### **Step 4: Part A:SQL JOINs Implementation** 
-___
+
 **1. INNER JOIN**
 
 **Purpose:** Retrieve transactions with valid customers and products. 
@@ -273,7 +273,7 @@ GROUP BY customer_id;
 Customers are grouped into quartiles, enabling targeted marketing strategies.
 
 ## **Step 7: Results Analysis** 
-___
+
 **Descriptive Analysis**
 
 Sales are concentrated among a small number of customers and products, with noticeable 
@@ -291,14 +291,16 @@ products, and prioritize top-ranked products per region.
 
 
 ## **Step 8: References**
-___
+
 ● Oracle SQL Documentation 
 ● PostgreSQL Window Functions Guide 
 ● W3Schools SQL JOINs Tutorial
 
 ##  **Academic Integrity Statement**
 
-All sources were properly cited. Implementations and analysis represent original work. No AI-generated content was copied without attribution or adaptation.
+All sources were properly cited.
+
+Implementations and analysis represent original work. 
 
 **Signature:** KEZA I. Larissa 
 
