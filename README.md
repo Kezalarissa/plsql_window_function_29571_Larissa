@@ -293,8 +293,11 @@ products, and prioritize top-ranked products per region.
 ## **Step 8: References**
 
 ● Oracle SQL Documentation 
+
 ● PostgreSQL Window Functions Guide 
+
 ● W3Schools SQL JOINs Tutorial
+
 
 ##  **Academic Integrity Statement**
 
@@ -306,7 +309,7 @@ Implementations and analysis represent original work.
 
 **Date:** February 07, 2025
 
----
+
 
 ## 📧 Contact
 
